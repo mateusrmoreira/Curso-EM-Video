@@ -1,3 +1,3 @@
 from ext22 import moeda
 
-print(moeda.moeda(10,3))
+print(moeda.moeda(10,3, 'US$'))
